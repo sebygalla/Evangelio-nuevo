@@ -477,6 +477,8 @@ body {
     letter-spacing: 3px;
   }
 
+  /* ventana modal */
+
   .modal__contenedor {
     width: 80%;
     height: 60%;
